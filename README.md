@@ -1,48 +1,23 @@
 # My Git Project
-## Week 4 Markdown Activity
-### Introduction to Version Control
 
-This project is part of my coursework for learning Git and GitHub documentation.
+Welcome to my repository for learning the basics of version control! This project is part of my coursework to get comfortable working with Git, GitHub, and markdown documentation.
 
----
+## What I'm Learning Here
+* Getting the hang of text formatting like **bolding** and *italics* to make documentation easier to read.
+* Practicing how to write code snippets and block quotes.
+* Managing task lists to track my progress as I move through course activities.
 
-## 1. Text Formatting & Quotes
-* **Bold text** helps highlight important notes.
-* *Italic text* can be used for secondary descriptions.
-* Inline code uses backticks, like `git status`.
+## Project Workflow Steps
+1. Install Git locally on my machine
+2. Set up my GitHub account and create this repository
+3. Initialize local tracking and push documentation up to the cloud
 
-> Markdown Quote:
-> > "Version control is essential for modern software development."
+## Quick Links
+* [GitHub Platform](https://github.com)
+* [Sheridan SLATE Course Portal](https://slate.sheridancollege.ca/d2l/le/content/1530680/Home)
 
----
-
-## 2. Lists & Task Tracking
-
-### Project Steps (Ordered List):
-1. Install Git locally
-2. Create a GitHub account
-3. Initialize the repository
-4. Push documentation
-
-### Key Tools (Unordered List):
-- PowerShell
-- Git & GitHub
-- VS Code
-
-### Task List:
-- [x] Complete Activity 1 and 2
-- [x] Learn Markdown basics
-- [x] Create README.md on GitHub
-
----
-
-## 3. Useful Links
-- [GitHub Platform](https://github.com)
-- [Sheridan SLATE Course Portal](https://slate.sheridancollege.ca/d2l/le/content/1530680/Home)
-
----
-
-## 4. Network Subnet Reference (Table)
+## Sample Network Reference
+Here is a quick table I set up to practice markdown table syntax:
 
 | Subnet | Network Address | Broadcast Address | Default Gateway |
 | :--- | :---: | :---: | ---: |
